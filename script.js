@@ -115,7 +115,19 @@ const roles = [
     'Engineering Student',
     'Web Developer',
     'Computer Vision Engineer',
-    'Robotics Engineer'
+    'Robotics Engineer',
+    'AI Engineer',
+    'Software Engineer',
+    'Machine Learning Engineer',
+    'Data Scientist',
+    'Cybersecurity Engineer',
+    'DevOps Engineer',
+    'Cloud Engineer',
+    'Blockchain Developer',
+    'Game Developer',
+    'Embedded Systems Engineer',
+
+    
 ];
 let roleIndex = 0;
 let charIndex = 0;
